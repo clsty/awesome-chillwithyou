@@ -1,4 +1,6 @@
 # Awesome Chill with You
+**简体中文** | [**English**](./README.en.md)
+
 > 与《放松时光：与你共享 Lo-Fi 故事》有关的项目列表。
 
 **声明**

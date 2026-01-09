@@ -1,3 +1,5 @@
+[**简体中文**](./README.md) | **English**
+
 "Chill with You: Lo-Fi Story" is a game focused on work/study companionship. This is a list of related projects.
 
 **Disclaimer**

@@ -21,8 +21,8 @@
   - 添加了游戏内 RIME 输入法。
 
 ## Chill AI Mod（AI 全语音对话）
-- **简介**：为游戏添加基于 LLM + VITS + ASR 的 AI 全语音对话（BepInEx 插件），让游戏角色支持实时语音与表情动作联动。
 - **仓库**：[qzrs777/AIChat](https://github.com/qzrs777/AIChat) ![GitHub Repo stars](https://img.shields.io/github/stars/qzrs777/AIChat)
+- **简介**：为游戏添加基于 LLM + VITS + ASR 的 AI 全语音对话（BepInEx 插件），让游戏角色支持实时语音与表情动作联动。
 - **许可**：MIT
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（支持）；MacOS（未知）
@@ -33,8 +33,8 @@
   - 实现 GitHub Actions 在线构建，自动化发布流程。[![Build for Stable Release](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml) [![Build for Preview Release](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml)
 
 ## Chill Env Sync（实时天气同步插件）
-- **简介**：实时天气同步的 BepInEx 插件，可以根据真实世界的天气情况自动调整游戏内的环境效果，或基于现实时间模拟昼夜循环。
 - **仓库**：[Small-tailqwq/RealTimeWeatherMod](https://github.com/Small-tailqwq/RealTimeWeatherMod) ![GitHub Repo stars](https://img.shields.io/github/stars/Small-tailqwq/RealTimeWeatherMod)
+- **简介**：实时天气同步的 BepInEx 插件，可以根据真实世界的天气情况自动调整游戏内的环境效果，或基于现实时间模拟昼夜循环。
 - **许可**：MIT
 - **本地化**：中文、英文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
@@ -45,22 +45,22 @@
   - 解锁所有环境：自动解锁所有环境和装饰品
 
 ## iGPU Savior（性能和体验优化插件）
-- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
 - **仓库**：[Small-tailqwq/iGPUSaviorMod](https://github.com/Small-tailqwq/iGPUSaviorMod) ![GitHub Repo stars](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod)
+- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
 - **许可**：MIT
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
 
 ## Chill Music Information Sync（音乐信息同步）
-- **简介**：一个 BepInEx 插件，可以实现与 Windows 媒体控制 API (SMTC) 双向同步的 Mod
 - **仓库**：[Cainongw/ChillMusicInformationSyncMod](https://github.com/Cainongw/ChillMusicInformationSyncMod) ![GitHub Repo stars](https://img.shields.io/github/stars/Cainongw/ChillMusicInformationSyncMod)
+- **简介**：一个 BepInEx 插件，可以实现与 Windows 媒体控制 API (SMTC) 双向同步的 Mod
 - **许可**：MIT
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
 
 ## Chill With Anyone
-- **简介**：角色外观替换 Mod（BepInEx 插件），支持自定义 3D 模型。
 - **仓库**：[Cavibot/chill-lofi-appearance-mod](https://github.com/Cavibot/chill-lofi-appearance-mod) ![GitHub Repo stars](https://img.shields.io/github/stars/Cavibot/chill-lofi-appearance-mod)
+- **简介**：角色外观替换 Mod（BepInEx 插件），支持自定义 3D 模型。
 - **许可**：MIT（仅代码部分；自带的角色模型除外）
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（支持）；MacOS（未知）

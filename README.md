@@ -34,7 +34,6 @@
   - 支持语音输入（由 Faster Whisper ASR 模型实现语音识别）。
   - 实现 GitHub Actions 在线构建，自动化发布流程。
     [![Build for Stable Release](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml)
-    [![Build for Preview Release](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml)
 
 ## Chill Env Sync（实时天气同步插件）
 - **仓库**：[![Small-tailqwq/RealTimeWeatherMod](https://img.shields.io/github/stars/Small-tailqwq/RealTimeWeatherMod?label=Small-tailqwq%2FRealTimeWeatherMod&style=flat-square)](https://github.com/Small-tailqwq/RealTimeWeatherMod) 

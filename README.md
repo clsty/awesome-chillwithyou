@@ -30,7 +30,7 @@
   - 使用任意兼容的 LLM API（如 OpenRouter/OpenAI/Ollama）生成对话文本。
   - 使用自部署的 GPT-SoVITS 的 WebAPI v2 生成语音。
   - 支持语音输入（由 Faster Whisper ASR 模型实现语音识别）。
-  - 实现 GitHub Actions 在线构建，自动化发布流程。
+  - 实现 GitHub Actions 在线构建，自动化发布流程。[![Build for Stable Release](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml) [![Build for Preview Release](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml)
 
 ## Chill Env Sync（实时天气同步插件）
 - **简介**：实时天气同步的 BepInEx 插件，可以根据真实世界的天气情况自动调整游戏内的环境效果，或基于现实时间模拟昼夜循环。

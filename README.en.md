@@ -48,7 +48,7 @@
 - **Localization**: Chinese only.
 - **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)
 
-## Chat with anyone
+## Chill With Anyone
 - **Description**: A character appearance replacement Mod (BepInEx plugin) that supports custom 3D models.
 - **Repository**: [Cavibot/chill-lofi-appearance-mod](https://github.com/Cavibot/chill-lofi-appearance-mod)
 - **License**: MIT (code only; bundled 3D models excluded)

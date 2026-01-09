@@ -1,4 +1,4 @@
-《放松时光：与你共享 Lo-Fi 故事》是一款主打工作/学习陪伴类型的游戏，此为与之有关的项目列表。
+《放松时光：与你共享 Lo-Fi 故事》是一款主打工作/学习陪伴的游戏，此为与之有关的项目列表。
 
 **声明**
 - 本项目与游戏官方无关。
@@ -48,7 +48,7 @@
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
 
-## Chat with anyone
+## Chill With Anyone
 - **简介**：角色外观替换 Mod（BepInEx 插件），支持自定义 3D 模型。
 - **仓库**：[Cavibot/chill-lofi-appearance-mod](https://github.com/Cavibot/chill-lofi-appearance-mod)
 - **许可**：MIT（仅代码部分；自带的 3D 模型除外）

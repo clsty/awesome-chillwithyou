@@ -32,7 +32,9 @@
   - Use any compatible LLM API (such as OpenRouter/OpenAI/Ollama) to generate dialogue text.
   - Use self-deployed GPT-SoVITS WebAPI v2 to generate voice.
   - Support voice input (speech recognition via Faster Whisper ASR model).
-  - Implement GitHub Actions for online builds and automated release workflow. [![Build for Stable Release](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml) [![Build for Preview Release](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml)
+  - Implement GitHub Actions for online builds and automated release workflow.
+    [![Build for Stable Release](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-stable.yml)
+    [![Build for Preview Release](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml/badge.svg)](https://github.com/qzrs777/AIChat/actions/workflows/build-preview.yml)
 
 ## Chill Env Sync (Real-time Weather Sync Plugin)
 - **Repository**: [![Small-tailqwq/RealTimeWeatherMod](https://img.shields.io/github/stars/Small-tailqwq/RealTimeWeatherMod?label=Small-tailqwq%2FRealTimeWeatherMod&style=flat-square)](https://github.com/Small-tailqwq/RealTimeWeatherMod)

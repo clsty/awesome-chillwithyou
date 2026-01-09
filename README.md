@@ -9,7 +9,7 @@
 **若想添加其他项目，或想对已有信息进行更新，欢迎提交 PR。**
 
 ## ChillPatcher
-- **简介**：这是一个 BepInEx 插件，用于增强《Chill With You》游戏. 包括音乐功能扩展和 wallpaper engine 兼容。
+- **简介**：这是一个增强游戏功能的 BepInEx 插件，包括音乐功能扩展和 wallpaper engine 兼容。
 - **仓库**：[BeyondtheApex/ChillPatcher](https://github.com/BeyondtheApex/ChillPatcher)
 - **许可**：GPLv3
 - **本地化**：仅中文。
@@ -61,6 +61,6 @@
 ## Chill With Anyone
 - **简介**：角色外观替换 Mod（BepInEx 插件），支持自定义 3D 模型。
 - **仓库**：[Cavibot/chill-lofi-appearance-mod](https://github.com/Cavibot/chill-lofi-appearance-mod)
-- **许可**：MIT（仅代码部分；自带的 3D 模型除外）
+- **许可**：MIT（仅代码部分；自带的角色模型除外）
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（支持）；MacOS（未知）

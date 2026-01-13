@@ -51,7 +51,7 @@
 - **仓库**：[![Cainongw/ChillMusicInformationSyncMod](https://img.shields.io/github/stars/Cainongw/ChillMusicInformationSyncMod?label=Cainongw%2FChillMusicInformationSyncMod&style=flat-square)](https://github.com/Cainongw/ChillMusicInformationSyncMod) 
 - **简介**：一个 BepInEx 插件，可以实现与 Windows 媒体控制 API (SMTC) 双向同步的 Mod
 - **许可**：MIT
-- **本地化**：文档仅中文，Mod 本身无特定语言。
+- **本地化**：文档（中、英、日），Mod 本身无特定语言。
 - **系统支持**：仅 Windows
 
 ## iGPU Savior（性能和体验优化插件）

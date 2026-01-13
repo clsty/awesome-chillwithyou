@@ -51,7 +51,7 @@
 - **Repository**: [![Cainongw/ChillMusicInformationSyncMod](https://img.shields.io/github/stars/Cainongw/ChillMusicInformationSyncMod?label=Cainongw%2FChillMusicInformationSyncMod&style=flat-square)](https://github.com/Cainongw/ChillMusicInformationSyncMod)
 - **Description**: A BepInEx plugin that enables bidirectional synchronization with the Windows Media Control API (SMTC).
 - **License**: MIT
-- **Localization**: The document is Chinese only; The mod itself does not need localization.
+- **Localization**: Document (Chinese, English, Japanese); The mod itself does not need localization.
 - **System Support**: Windows only.
 
 ## iGPU Savior (Performance and Experience Optimization Plugin)

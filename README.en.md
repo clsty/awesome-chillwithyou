@@ -47,16 +47,16 @@
   - Day-night cycle: Automatically switch between day/dusk/night scenes based on configured sunrise and sunset times
   - Unlock all environments: Automatically unlock all environments and decorations
 
-## iGPU Savior (Performance and Experience Optimization Plugin)
-- **Repository**: [![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod)
-- **Description**: A performance and experience optimization BepInEx plugin that provides mirroring, windowed, and portrait modes.
-- **License**: MIT
-- **Localization**: Chinese only.
-- **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)
-
 ## Chill Music Information Sync (Music Information Sync)
 - **Repository**: [![Cainongw/ChillMusicInformationSyncMod](https://img.shields.io/github/stars/Cainongw/ChillMusicInformationSyncMod?label=Cainongw%2FChillMusicInformationSyncMod&style=flat-square)](https://github.com/Cainongw/ChillMusicInformationSyncMod)
 - **Description**: A BepInEx plugin that enables bidirectional synchronization with the Windows Media Control API (SMTC).
+- **License**: MIT
+- **Localization**: The document is Chinese only; The mod itself does not need localization.
+- **System Support**: Windows only.
+
+## iGPU Savior (Performance and Experience Optimization Plugin)
+- **Repository**: [![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod)
+- **Description**: A performance and experience optimization BepInEx plugin that provides mirroring, windowed, and portrait modes.
 - **License**: MIT
 - **Localization**: Chinese only.
 - **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)

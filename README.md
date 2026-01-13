@@ -47,16 +47,16 @@
   - 昼夜循环：根据配置的日出日落时间自动切换白天/黄昏/夜晚场景
   - 解锁所有环境：自动解锁所有环境和装饰品
 
-## iGPU Savior（性能和体验优化插件）
-- **仓库**：[![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod) 
-- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
-- **许可**：MIT
-- **本地化**：仅中文。
-- **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
-
 ## Chill Music Information Sync（音乐信息同步）
 - **仓库**：[![Cainongw/ChillMusicInformationSyncMod](https://img.shields.io/github/stars/Cainongw/ChillMusicInformationSyncMod?label=Cainongw%2FChillMusicInformationSyncMod&style=flat-square)](https://github.com/Cainongw/ChillMusicInformationSyncMod) 
 - **简介**：一个 BepInEx 插件，可以实现与 Windows 媒体控制 API (SMTC) 双向同步的 Mod
+- **许可**：MIT
+- **本地化**：文档仅中文，Mod 本身无特定语言。
+- **系统支持**：仅 Windows
+
+## iGPU Savior（性能和体验优化插件）
+- **仓库**：[![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod) 
+- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
 - **许可**：MIT
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）

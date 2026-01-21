@@ -8,6 +8,10 @@
 - 本项目收录的信息尽可能做到准确，但仍有可能错漏或过时。
 - 本项目不对列表中任何项目的功能与安全性作任何担保。
 
+**兼容性**
+- 以下 Mod 可能与其他 Mod 冲突，尤其是对游戏改动很多的 ChillPatcher。
+- 请自行验证兼容性，也欢迎在 [Discussion#3](https://github.com/clsty/awesome-chillwithyou/discussions/3) 讨论。
+
 **若想添加其他项目，或想对已有信息进行更新，欢迎提交 PR。**
 
 ## ChillPatcher

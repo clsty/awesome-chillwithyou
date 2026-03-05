@@ -54,16 +54,16 @@
 - **Localization**: Document (Chinese, English, Japanese); The mod itself does not need localization.
 - **System Support**: Windows only.
 
-## iGPU Savior (Performance and Experience Optimization Plugin)
-- **Repository**: [![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod)
-- **Description**: A performance and experience optimization BepInEx plugin that provides mirroring, windowed, and portrait modes.
-- **License**: MIT
-- **Localization**: Chinese only.
-- **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)
-
 ## Chill With Anyone
 - **Repository**: [![Cavibot/chill-lofi-appearance-mod](https://img.shields.io/github/stars/Cavibot/chill-lofi-appearance-mod?label=Cavibot%2Fchill-lofi-appearance-mod&style=flat-square)](https://github.com/Cavibot/chill-lofi-appearance-mod)
 - **Description**: A character appearance replacement Mod (BepInEx plugin) that supports custom 3D models.
 - **License**: MIT (code only; bundled character models excluded)
 - **Localization**: Chinese only.
 - **System Support**: Windows (supported); Linux (supported); MacOS (unknown)
+
+## iGPU Savior (Performance and Experience Optimization Plugin)
+- **Repository**: [![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod)
+- **Description**: A performance and experience optimization BepInEx plugin that provides mirroring, windowed, and portrait modes.
+- **License**: MIT
+- **Localization**: Chinese only.
+- **System Support**: Windows (supported); Linux (unknown); MacOS (unknown)

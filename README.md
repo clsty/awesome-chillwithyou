@@ -58,16 +58,16 @@
 - **本地化**：文档（中、英、日），Mod 本身无特定语言。
 - **系统支持**：仅 Windows
 
-## iGPU Savior（性能和体验优化插件）
-- **仓库**：[![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod) 
-- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
-- **许可**：MIT
-- **本地化**：仅中文。
-- **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
-
 ## Chill With Anyone
 - **仓库**：[![Cavibot/chill-lofi-appearance-mod](https://img.shields.io/github/stars/Cavibot/chill-lofi-appearance-mod?label=Cavibot%2Fchill-lofi-appearance-mod&style=flat-square)](https://github.com/Cavibot/chill-lofi-appearance-mod) 
 - **简介**：角色外观替换 Mod（BepInEx 插件），支持自定义 3D 模型。
 - **许可**：MIT（仅代码部分；自带的角色模型除外）
 - **本地化**：仅中文。
 - **系统支持**：Windows（支持）；Linux（支持）；MacOS（未知）
+
+## iGPU Savior（性能和体验优化插件）
+- **仓库**：[![Small-tailqwq/iGPUSaviorMod](https://img.shields.io/github/stars/Small-tailqwq/iGPUSaviorMod?label=Small-tailqwq%2FiGPUSaviorMod&style=flat-square)](https://github.com/Small-tailqwq/iGPUSaviorMod) 
+- **简介**：性能和体验优化的 BepInEx 插件，提供镜像、小窗、竖屏模式。
+- **许可**：MIT
+- **本地化**：仅中文。
+- **系统支持**：Windows（支持）；Linux（未知）；MacOS（未知）
